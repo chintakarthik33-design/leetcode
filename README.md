@@ -10,4 +10,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2180-count-integers-with-even-digit-sum](https://github.com/chintakarthik33-design/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2553-separate-the-digits-in-an-array](https://github.com/chintakarthik33-design/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+## Array
+|  |
+| ------- |
+| [2553-separate-the-digits-in-an-array](https://github.com/chintakarthik33-design/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 <!---LeetCode Topics End-->
