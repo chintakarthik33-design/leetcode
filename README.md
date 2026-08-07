@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/chintakarthik33-design/leetcode/tree/master/0013-roman-to-integer) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/chintakarthik33-design/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2544-alternating-digit-sum](https://github.com/chintakarthik33-design/leetcode/tree/master/2544-alternating-digit-sum) |
 ## Simulation
@@ -20,4 +21,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/chintakarthik33-design/leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/chintakarthik33-design/leetcode/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/chintakarthik33-design/leetcode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
